@@ -1,6 +1,8 @@
 # *Welcome to My Portfolio!* 
 Hello! I am Oli aka Comrade PS2 or KingPlaystation and Welcome to my site! 
 
+SIGMA
+
 ## Projects
 
  1. <a href="https://github.com/PS2Comrade/Searchima">**Searchima**</a> (Search Engine manager) ***Haitus*** <br>

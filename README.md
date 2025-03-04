@@ -3,12 +3,12 @@ Hello! I am Oli aka Comrade PS2 or KingPlaystation and Welcome to my site!
 
 ## Projects
 
- 1. <a href="https://github.com/PS2Comrade/Searchima">**Searchima**</a> (Search Engine manager) ***Haitus***
+ 1. <a href="https://github.com/PS2Comrade/Searchima">**Searchima**</a> (Search Engine manager) ***Haitus*** <br>
  Search Engine manager forked from  <a href="https://github.com/evilpie/add-custom-search-engine" target="_blank">this.</a>
- 2. <a href="https://github.com/PS2Comrade/ByteView">**ByteView**</a> (BitView Client) ***Hiatus***
+ 2. <a href="https://github.com/PS2Comrade/ByteView">**ByteView**</a> (BitView Client) ***Hiatus*** <br>
  Wanted to make a BitView Client as there was none :P
  Rewriting on going!
- 3. **PyCalc** (Simple Calculator written in Python) 
+ 3. **PyCalc** (Simple Calculator written in Python) <br>
  My first project :D ~~(Spoiler: It was pretty shitty)~~
 
 ## Minecraft Server

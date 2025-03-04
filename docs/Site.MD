@@ -1,1 +1,1 @@
-<img src="drawing.jpg" alt="drawing" width="200"/>
+<img src="https://thumbnails.huggingface.co/social-thumbnails/spaces/BeanFan2027/simga.png" alt="drawing" width="200"/>

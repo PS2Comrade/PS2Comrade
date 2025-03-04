@@ -11,6 +11,9 @@ Hello! I am Oli aka Comrade PS2 or KingPlaystation and Welcome to my site!
  3. **PyCalc** (Simple Calculator written in Python) <br>
  My first project :D ~~(Spoiler: It was pretty shitty)~~
 
+## Contact Me
+**Discord:** `@kingplaystation`
+
 ## Minecraft Server
 ![Photo of Minecraft](https://preview.redd.it/a-piece-of-nature-from-my-survival-world-v0-ulm4cu7ftxde1.png?width=640&crop=smart&auto=webp&s=c82a8513d805b7cd51805ba17285fb91c2541bb1)
 

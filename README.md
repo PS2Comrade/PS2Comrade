@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @PS2Comrade irl: Oli Ullah
-- 👀 I’m interested in Tech, History and Science. maybe more
-- 🌱 I’m currently learning Python, C#. also Russian, Esperanto and Arabic
-- 📫 How to reach me @kingplaystation(discord), Oliullah321123@protonmail.com.
-- ⚡ Fun fact: PS2 is the highest selling console.
+# *Welcome to My Portfolio!* 
+Hello! I am Oli aka Comrade PS2 or KingPlaystation and Welcome to my site! 
 
-<!---
-PS2Comrade/PS2Comrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+
+ 1. <a href="https://github.com/PS2Comrade/Searchima">**Searchima**</a> (Search Engine manager) ***Haitus***
+ Search Engine manager forked from  <a href="https://github.com/evilpie/add-custom-search-engine" target="_blank">this.</a>
+ 2. <a href="https://github.com/PS2Comrade/ByteView">**ByteView**</a> (BitView Client) ***Hiatus***
+ Wanted to make a BitView Client as there was none :P
+ Rewriting on going!
+ 3. **PyCalc** (Simple Calculator written in Python) 
+ My first project :D ~~(Spoiler: It was pretty shitty)~~
+
+## Minecraft Server
+![Photo of Minecraft](https://preview.redd.it/a-piece-of-nature-from-my-survival-world-v0-ulm4cu7ftxde1.png?width=640&crop=smart&auto=webp&s=c82a8513d805b7cd51805ba17285fb91c2541bb1)
+
+Join IP: `mc.comrade.codes:40505` 
+ ***(Bedrock only 1.21.60 and up )***
+
+Powered by GitHub Pages. 
+Domain by Name.com

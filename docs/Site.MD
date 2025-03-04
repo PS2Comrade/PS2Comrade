@@ -13,6 +13,7 @@ Hello! I am Oli aka Comrade PS2 or KingPlaystation and Welcome to my site!
 
 ## Minecraft Server
 ![Photo of Minecraft](https://preview.redd.it/a-piece-of-nature-from-my-survival-world-v0-ulm4cu7ftxde1.png?width=640&crop=smart&auto=webp&s=c82a8513d805b7cd51805ba17285fb91c2541bb1)
+
 Join IP: `mc.comrade.codes:40505` 
  ***(Bedrock only 1.21.60 and up )***
 

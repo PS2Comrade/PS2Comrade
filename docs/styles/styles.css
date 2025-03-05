@@ -69,11 +69,12 @@ footer {
 
 /* Add this to your styles.css file */
 
-/* Classic style for the navigation bar */
+/* Add this to your styles.css file */
+
+/* Style for the navigation bar */
 nav {
     background-color: #333;
     padding: 1em;
-    border: 2px solid #000; /* Adding a solid border */
 }
 
 nav ul {
@@ -92,13 +93,8 @@ nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
-    padding: 0.5em; /* Adding padding for better spacing */
-    border: 2px solid #fff; /* Adding a border around links */
-    border-radius: 5px; /* Adding rounded corners */
-    background-color: #555; /* Adding a background color */
 }
 
 nav ul li a:hover {
     text-decoration: underline;
-    background-color: #777; /* Changing background color on hover */
 }

@@ -12,12 +12,48 @@ header {
     background-color: #000080;
     color: white;
     text-align: center;
-    padding: 1em 0;
+    padding: 2em 0;
+    border-bottom: 4px solid #4CAF50;
 }
 
 header h1 {
+    margin: 0 0 0.5em 0;
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+/* Style for the navigation bar */
+nav {
+    background-color: #333;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul {
+    list-style-type: none;
     margin: 0;
-    font-size: 2em;
+    padding: 0;
+    display: flex;
+    gap: 1em;
+}
+
+nav ul li {
+    margin: 0;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #4CAF50;
 }
 
 /* Style for the sections */
@@ -40,9 +76,11 @@ section h2 {
 a {
     color: #4CAF50;
     text-decoration: none;
+    transition: color 0.3s;
 }
 
 a:hover {
+    color: #000080;
     text-decoration: underline;
 }
 
@@ -65,34 +103,6 @@ footer {
     position: relative;
     width: 100%;
     bottom: 0;
-}
-
-/* Style for the navigation bar */
-nav {
-    background-color: #333;
-    padding: 1em;
-}
-
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-}
-
-nav ul li {
-    margin: 0 1em;
-}
-
-nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-nav ul li a:hover {
-    text-decoration: underline;
 }
 
 /* 3D hover effect styles */

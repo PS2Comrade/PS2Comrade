@@ -13,7 +13,7 @@ body {
     padding-bottom: 3em; /* Add padding to ensure space for the footer */
 }
 
-/* Style for the header */
+/* Override 98.css header style */
 header {
     background-color: #000080; /* Windows 9x blue */
     color: white;
@@ -28,7 +28,7 @@ header h1 {
     font-weight: normal;
 }
 
-/* Style for the sections */
+/* Custom styles for sections */
 section {
     margin: 2em;
     padding: 1em;
@@ -37,7 +37,7 @@ section {
     box-shadow: inset 2px 2px 0 #fff, inset -2px -2px 0 #000; /* Stronger 3D border effect */
 }
 
-/* Style for section headers */
+/* Custom styles for section headers */
 section h2 {
     color: #000080;
     border-bottom: 2px solid #000080;
@@ -45,7 +45,7 @@ section h2 {
     font-weight: normal;
 }
 
-/* Style for buttons */
+/* Custom styles for buttons */
 button {
     font-family: 'Terminus', monospace;
     background-color: #c0c0c0;
@@ -59,7 +59,7 @@ button:hover {
     background-color: #d0d0d0;
 }
 
-/* Style for links */
+/* Custom styles for links */
 a {
     color: #000080;
     text-decoration: none;
@@ -69,7 +69,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Style for list items */
+/* Custom styles for list items */
 ul {
     list-style-type: none;
     padding: 0;
@@ -79,7 +79,7 @@ li {
     margin: 0.5em 0;
 }
 
-/* Style for the footer */
+/* Custom styles for the footer */
 footer {
     text-align: center;
     padding: 1em 0;

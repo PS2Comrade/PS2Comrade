@@ -67,10 +67,6 @@ footer {
     bottom: 0;
 }
 
-/* Add this to your styles.css file */
-
-/* Add this to your styles.css file */
-
 /* Style for the navigation bar */
 nav {
     background-color: #333;
@@ -97,4 +93,10 @@ nav ul li a {
 
 nav ul li a:hover {
     text-decoration: underline;
+}
+
+/* 3D hover effect styles */
+.hover-card {
+    perspective: 1000px;
+    transition: transform 0.5s;
 }

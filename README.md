@@ -1,24 +1,23 @@
-# *Welcome to My Portfolio!* 
-Hello! I am Oli aka Comrade PS2 or KingPlaystation and Welcome to my site! 
+# PS2Comrade
+vroooo i dunno wat to write here ong frfr
+### urm about me 
+PROUD BANGLADESHII!!!!!!! 🇧🇩🇧🇩🗣️🔥 <br>
+i do some stuff with C/C++ ig and maybe python <br>
+i collab with my dawg [VeryEpicKebap](https://github.com/VeryEpicKebap) 🇹🇷🇹🇷🇹🇷🇹🇷
 
-## Projects
+but i am dev for [Xylen](https://xylen.rf.gd/) frfr 🤑🤑
 
- 1. <a href="https://github.com/PS2Comrade/Searchima">**Searchima**</a> (Search Engine manager) ***Haitus*** <br>
- Search Engine manager forked from  <a href="https://github.com/evilpie/add-custom-search-engine" target="_blank">this.</a>
- 2. <a href="https://github.com/PS2Comrade/ByteView">**ByteView**</a> (BitView Client) ***Hiatus*** <br>
- Wanted to make a BitView Client as there was none :P
- Rewriting on going!
- 3. **PyCalc** (Simple Calculator written in Python) <br>
- My first project :D ~~(Spoiler: It was pretty shitty)~~
+### what i like to do
+1. sleep 🔥
+2. game 🗿
+3. goon 🤑
+4. code 🥀
 
-## Contact Me
-**Discord:** `@kingplaystation`
+#### education 🤓
+bangladesh air force shaheen college kurmitola 
 
-## Minecraft Server
-![Photo of Minecraft](https://preview.redd.it/a-piece-of-nature-from-my-survival-world-v0-ulm4cu7ftxde1.png?width=640&crop=smart&auto=webp&s=c82a8513d805b7cd51805ba17285fb91c2541bb1)
-
-Join IP: `mc.comrade.codes:40505` 
- ***(Bedrock only 1.21.60 and up )***
-
-Powered by GitHub Pages. 
-Domain by Name.com
+## what i can and cannot do
+python: yes <br>
+c/c++: ig <br>
+asm: maybe idk <br>
+stackoverflow 🗿: 🔥 <br>

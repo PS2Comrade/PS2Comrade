@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Pico + Unscii</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" />
+    <style>
+        @font-face {
+            font-family: 'Unscii';
+            src: url('unscii-8.woff') format('woff');
+        }
+        :root {
+            --pico-font-family: 'Unscii', monospace;
+        }
+        * { font-family: 'Unscii', monospace !important; border-radius: 0 !important; image-rendering: pixelated; }
+    </style>
+</head>
+<body>
+    <main class="container">
+        <nav>
+            <ul><li><strong>[welcome]</strong></li></ul>
+            <ul>
+                <li><a href="https://github.com/PS2Comrade">github</a></li>
+                <li><a href="https://example.com">test</a></li>
+            </ul>
+        </nav>
+        <article>
+            <h1>>_ comrade ps2</h1>
+            <p>hi there i am just a student tinkering on free time</p>
+            <p>self-taught polymath and programmer</p>
+            <button class="outline">my projects</button>
+        </article>
+    </main>
+</body>
+</html>

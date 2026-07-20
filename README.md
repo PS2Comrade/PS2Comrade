@@ -1,4 +1,12 @@
-Bangladeshi
-C/C++, ASM, Zig, Rust 
+**PS2Comrade** - minimalist developer from Bangladesh building tools with low-level control and performance in mind.
 
-Email: Oliullah321123@protonmai.com
+**about me :-**
+
+ - location - based in bangladesh
+ - language stack - c/cpp, rust, asm, zig
+ - philosophy - building software without unnecessary parts
+ - job - student as of now
+
+**contact:-**
+
+ - email - [Oliullah321123@protonmail.com](mailto:Oliullah321123@protonmail.com)

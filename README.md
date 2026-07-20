@@ -9,5 +9,4 @@
 
 **contact:-**
 
- - email - [Oliullah321123@protonmail.com](mailto:Oliullah321123@protonmail.com)
  - email - [ps2comrade@disroot.org](mailto:ps2comrade@disroot.org)

@@ -1,4 +1,4 @@
-**PS2Comrade** - minimalist developer from Bangladesh building tools with low-level control and performance in mind.
+**PS2Comrade** - developer building tools with control and performance in mind
 
 **about me :-**
 
